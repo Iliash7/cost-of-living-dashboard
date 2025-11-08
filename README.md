@@ -1,1 +1,15 @@
-https://github.com/Iliash7/cost-of-living-dashboard.git
+חברה טובה נמדדת לפי הדירוג שלה מ-1 עד 5 בששת הקטגוריות: 
+Culture & values
+Diversity, Equity & Inclusion
+Work/Life balance 
+Senior management
+Compensation and benefits 
+Career opportunities 
+שלאות מנחות:
+אילו חברות הכי טובות בהס"כ
+מה הסקטורים בהם נמצאות החברות הטובות ביותר
+מה העבודות הנפוצות ביותר בחברות הטובות ביותר
+באילו מדינות החברות האלה פועלות (משרדים)
+כמה מהחברות האלה מעסיקות עובדים מרחוק
+כמה מהחברות האלה מעסיקות סטודנטים
+מה השכר הממוצע בחברות האלה (לפי עבודה ובאופן כללי)
